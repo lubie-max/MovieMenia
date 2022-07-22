@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/movieMenia-app-by-react/static/css/main.2d50e366.css",
-    "main.js": "/movieMenia-app-by-react/static/js/main.fcd2675f.js",
-    "index.html": "/movieMenia-app-by-react/index.html",
-    "main.2d50e366.css.map": "/movieMenia-app-by-react/static/css/main.2d50e366.css.map",
-    "main.fcd2675f.js.map": "/movieMenia-app-by-react/static/js/main.fcd2675f.js.map"
+    "main.css": "/MovieMenia/static/css/main.2d50e366.css",
+    "main.js": "/MovieMenia/static/js/main.fcd2675f.js",
+    "index.html": "/MovieMenia/index.html",
+    "main.2d50e366.css.map": "/MovieMenia/static/css/main.2d50e366.css.map",
+    "main.fcd2675f.js.map": "/MovieMenia/static/js/main.fcd2675f.js.map"
   },
   "entrypoints": [
     "static/css/main.2d50e366.css",
