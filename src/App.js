@@ -7,18 +7,11 @@ import MovieCard from './MovieCard' ;
 
 const API_URL ='https://www.omdbapi.com/?i=tt3896198&apikey=e2638870'
 
-// const movie1 = {
-//     "Title": "Amazing Spiderman Syndrome",
-//     "Year": "2012",
-//     "imdbID": "tt2586634",
-//     "Type": "movie",
-//     "Poster": "N/A",
 
-// }
 
 const App= ()=>{
 
-    const [movies , setMovies]= useState([]) // use state to show movies
+    const [movies , setMovies]= useState([])       //👈 use state to show movies
     const [searchValue, setSearchValue]= useState('');
 
     const searchMovie = async (title) =>{
@@ -30,7 +23,7 @@ const App= ()=>{
     }
 
     useEffect( ()=>{
-        searchMovie('avengers')         // 
+        searchMovie('avengers')      
         
     }, [] );
 
